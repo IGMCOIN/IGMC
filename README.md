@@ -12,19 +12,19 @@ source software which enables the use of this currency.
 
 For more information, the IGM Coin Core software,
 More information at [www.igmkorea.com](https://www.igmkorea.com)
-(https://github.com/IGMCOIN/IGMC/blob/master/img/IGM_CI.png)](https://www.igmkorea.com)
+[!(https://github.com/IGMCOIN/IGMC/blob/master/img/IGM_CI.png)](https://www.igmkorea.com)
 
 ### Coin Specs
 
 <table>
-<tr><td>Abbr</td><td>AILE</td></tr>
+<tr><td>Abbr</td><td>IGMC</td></tr>
 <tr><td>P2Pport</td><td>59871</td></tr>
 <tr><td>RPCport</td><td>59872</td></tr>
 <tr><td>Algo</td><td>Quark</td></tr>
 <tr><td>Block Time</td><td>60 Seconds</td></tr>
 <tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
 <tr><td>Max Coin Supply</td><td>10,00,000,000 AILE</td></tr>
-<tr><td>Premine</td><td>500,00,000 IGMC*</td></tr>
+<tr><td>Premine</td><td>500,000,000 IGMC*</td></tr>
 </table>
 
 
