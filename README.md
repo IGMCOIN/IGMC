@@ -18,11 +18,12 @@ More information at [www.igmkorea.com](https://www.igmkorea.com)
 
 <table>
 <tr><td>Abbr</td><td>IGMC</td></tr>
-<tr><td>P2Pport</td><td>59871</td></tr>
-<tr><td>RPCport</td><td>59872</td></tr>
+<tr><td>P2P Port</td><td>22038</td></tr>
+<tr><td>RPC Port</td><td>22037</td></tr>
+  <tr><td>TESTNET Port</td><td>22037</td></tr>
 <tr><td>Algo</td><td>Quark</td></tr>
-<tr><td>Block Time</td><td>60 Seconds</td></tr>
-<tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
+<tr><td>Block Time</td><td>15sec</td></tr>
+<tr><td>Difficulty Retargeting</td><td>0.35 days</td></tr>
 <tr><td>Max Coin Supply</td><td>10,000,000,000 IGMC</td></tr>
 <tr><td>Premine</td><td>500,000,000 IGMC*</td></tr>
 </table>
