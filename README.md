@@ -23,7 +23,7 @@ More information at [www.igmkorea.com](https://www.igmkorea.com)
   <tr><td>TESTNET Port</td><td>22037</td></tr>
 <tr><td>Algo</td><td>Quark</td></tr>
 <tr><td>Block Time</td><td>15sec</td></tr>
-<tr><td>Difficulty Retargeting</td><td>0.35 days</td></tr>
+<tr><td>Difficulty Retargeting</td><td>0.35days</td></tr>
 <tr><td>Max Coin Supply</td><td>10,000,000,000 IGMC</td></tr>
 <tr><td>Premine</td><td>500,000,000 IGMC*</td></tr>
 </table>
