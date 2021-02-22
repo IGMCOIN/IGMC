@@ -23,7 +23,7 @@ More information at [www.igmkorea.com](https://www.igmkorea.com)
 <tr><td>Algo</td><td>Quark</td></tr>
 <tr><td>Block Time</td><td>60 Seconds</td></tr>
 <tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
-<tr><td>Max Coin Supply</td><td>10,00,000,000 AILE</td></tr>
+<tr><td>Max Coin Supply</td><td>10,000,000,000 IGMC</td></tr>
 <tr><td>Premine</td><td>500,000,000 IGMC*</td></tr>
 </table>
 
