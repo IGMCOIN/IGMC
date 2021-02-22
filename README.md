@@ -1,18 +1,51 @@
-# ZonberCoin
-- an educational cryptocurrency. This coin was created to tell you how to make your own coin. You can have your own coin by following a few step guides. This coin originated in SmallChange and is subject to the MIT license.
+IGMC Core integration/staging repository
+=====================================
 
-# Features
-- 15 seconds block targets
-- 100,000,000 total coins
-- 500 coins per block
-- difficulty retargets every 0.35 days
-- currently peers are looked up over IRC only
+[![IGM COIN](https://github.com/IGMCOIN/IGMC/blob/master/img/igmc.jpg)](https://www.igmkorea.com)
 
-# About
-- BLOG: http://baek2sm.blog.me
-- GUIDE: http://baek2sm.blog.me/221188344843
 
-- Copyright (c) 2009-2012 Bitcoin Developers
-- Copyright (c) 2011-2012 Litecoin Developers
-- Copyright (c) SmallChange Developers
-- Copyright (c) 2018 SeungBaek Hong
+IGM Coin is an experimental digital currency that enables anonymous, instant
+payments to anyone, anywhere in the world. IGM Coin uses peer-to-peer technology
+to operate with no central authority: managing transactions and issuing money
+are carried out collectively by the network. AileCoin Core is the name of the open
+source software which enables the use of this currency.
+
+For more information, the IGM Coin Core software,
+More information at [www.igmkorea.com](https://www.igmkorea.com)
+(https://github.com/IGMCOIN/IGMC/blob/master/img/IGM_CI.png)](https://www.igmkorea.com)
+
+### Coin Specs
+
+<table>
+<tr><td>Abbr</td><td>AILE</td></tr>
+<tr><td>P2Pport</td><td>59871</td></tr>
+<tr><td>RPCport</td><td>59872</td></tr>
+<tr><td>Algo</td><td>Quark</td></tr>
+<tr><td>Block Time</td><td>60 Seconds</td></tr>
+<tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
+<tr><td>Max Coin Supply</td><td>10,00,000,000 AILE</td></tr>
+<tr><td>Premine</td><td>500,00,000 IGMC*</td></tr>
+</table>
+
+
+### Reward Distribution
+
+<table>
+<th colspan=4>Genesis Block</th>
+<tr><th>Block Height</th><th>Reward Amount</th><th>Notes</th></tr>
+<tr><td>1</td><td>500,000,000 IGMC</td><td>Initial Pre-mine</td></tr>
+</table>
+
+
+### License
+
+IGM Coin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+information or see https://opensource.org/licenses/MIT.
+
+### Development Process
+
+The `master` branch is meant to be stable. Development is normally done in separate branches.
+[Tags](https://github.com/pointofpublic/pointofpublic/tags) are created to indicate new official,
+stable release versions of IGM Coin Core.
+
+The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
